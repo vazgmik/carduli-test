@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776009485727,
+  "timestamp": 1776014110314,
   "index": "/carduli-test/index.html",
   "assetGroups": [
     {
@@ -11,7 +11,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/carduli-test/favicon.ico",
         "/carduli-test/index.html",
         "/carduli-test/main-K24FFLQG.js",
         "/carduli-test/manifest.webmanifest",
@@ -4023,21 +4022,16 @@
         "/carduli-test/assets/taiga-ui/icons/zoom-in.svg",
         "/carduli-test/assets/taiga-ui/icons/zoom-out-filled.svg",
         "/carduli-test/assets/taiga-ui/icons/zoom-out.svg",
-        "/carduli-test/icons/icon-128x128.png",
-        "/carduli-test/icons/icon-144x144.png",
-        "/carduli-test/icons/icon-152x152.png",
+        "/carduli-test/favicon.png",
         "/carduli-test/icons/icon-192x192.png",
-        "/carduli-test/icons/icon-384x384.png",
-        "/carduli-test/icons/icon-512x512.png",
-        "/carduli-test/icons/icon-72x72.png",
-        "/carduli-test/icons/icon-96x96.png"
+        "/carduli-test/icons/icon-512х512.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/carduli-test/apple-touch-icon.png": "15c4180454633880d98674aa7394656196c91584",
+    "/carduli-test/apple-touch-icon.png": "855df0c5732862e1ed4593d8de3392f5ed1dd4ee",
     "/carduli-test/assets/taiga-ui/icons/a-arrow-down-filled.svg": "86869bb411593b645984c12e03b5490e207c4f84",
     "/carduli-test/assets/taiga-ui/icons/a-arrow-down.svg": "e344dabc70a962fca97ad0c1ed0820ec751e572a",
     "/carduli-test/assets/taiga-ui/icons/a-arrow-up-filled.svg": "796c4cca4a1e68a7d12e760a6ba8cf6256977c83",
@@ -8033,18 +8027,12 @@
     "/carduli-test/assets/taiga-ui/icons/zoom-in.svg": "0b6708bc4f01a2ef56b851841e8af817ecbeb1fd",
     "/carduli-test/assets/taiga-ui/icons/zoom-out-filled.svg": "2375a2dc138f75cecc59625dfbab6e630939f0d9",
     "/carduli-test/assets/taiga-ui/icons/zoom-out.svg": "d3bd47ee87f118fbc4a21d8c38ec7b77ce2b89fd",
-    "/carduli-test/favicon.ico": "4e23d0f9b6ddaf3c9ddef90dbaed2342941297b5",
-    "/carduli-test/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/carduli-test/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/carduli-test/icons/icon-152x152.png": "eae6e0f0c8afb8aaae339e2a569b43e9238e5e6c",
-    "/carduli-test/icons/icon-192x192.png": "15c4180454633880d98674aa7394656196c91584",
-    "/carduli-test/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/carduli-test/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
-    "/carduli-test/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/carduli-test/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/carduli-test/favicon.png": "5e7a280376ecf91c457d4d121611126a7d15d251",
+    "/carduli-test/icons/icon-192x192.png": "dc56c551eab4e5a477a96eab76a481367bbb29b3",
+    "/carduli-test/icons/icon-512х512.png": "ba9194b165549bf549a5a7a89e68b2e75e764b2e",
     "/carduli-test/index.html": "b7a4d5b2fd211b21b742245d89d6e77fde1d60b6",
     "/carduli-test/main-K24FFLQG.js": "385d963d9365c3bac6727e7cc8a164fced016df5",
-    "/carduli-test/manifest.webmanifest": "d714eb0e2fe8016619153c787366a987aed09fc9",
+    "/carduli-test/manifest.webmanifest": "e17862b6c39f67b08c3bae799c0acbaad8d6a505",
     "/carduli-test/styles-GQVXBNZD.css": "8b15693609e44debaf12fa87946ea7140357c75a"
   },
   "navigationUrls": [
