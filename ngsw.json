@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776014110314,
+  "timestamp": 1776014810017,
   "index": "/carduli-test/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/carduli-test/favicon.ico",
         "/carduli-test/index.html",
         "/carduli-test/main-K24FFLQG.js",
         "/carduli-test/manifest.webmanifest",
@@ -4022,7 +4023,6 @@
         "/carduli-test/assets/taiga-ui/icons/zoom-in.svg",
         "/carduli-test/assets/taiga-ui/icons/zoom-out-filled.svg",
         "/carduli-test/assets/taiga-ui/icons/zoom-out.svg",
-        "/carduli-test/favicon.png",
         "/carduli-test/icons/icon-192x192.png",
         "/carduli-test/icons/icon-512х512.png"
       ],
@@ -8027,7 +8027,7 @@
     "/carduli-test/assets/taiga-ui/icons/zoom-in.svg": "0b6708bc4f01a2ef56b851841e8af817ecbeb1fd",
     "/carduli-test/assets/taiga-ui/icons/zoom-out-filled.svg": "2375a2dc138f75cecc59625dfbab6e630939f0d9",
     "/carduli-test/assets/taiga-ui/icons/zoom-out.svg": "d3bd47ee87f118fbc4a21d8c38ec7b77ce2b89fd",
-    "/carduli-test/favicon.png": "5e7a280376ecf91c457d4d121611126a7d15d251",
+    "/carduli-test/favicon.ico": "5e7a280376ecf91c457d4d121611126a7d15d251",
     "/carduli-test/icons/icon-192x192.png": "dc56c551eab4e5a477a96eab76a481367bbb29b3",
     "/carduli-test/icons/icon-512х512.png": "ba9194b165549bf549a5a7a89e68b2e75e764b2e",
     "/carduli-test/index.html": "b7a4d5b2fd211b21b742245d89d6e77fde1d60b6",
