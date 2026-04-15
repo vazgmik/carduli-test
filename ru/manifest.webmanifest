@@ -2,7 +2,7 @@
   "name": "Carduli",
   "short_name": "Carduli",
   "theme_color": "#526ed3",
-  "background_color": "#ffffff",
+  "background_color": "#526ed3",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
