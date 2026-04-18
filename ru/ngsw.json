@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1776511540443,
+  "timestamp": 1776534227880,
   "index": "/carduli-test/ru/index.html",
   "assetGroups": [
     {
@@ -13,9 +13,9 @@
       "urls": [
         "/carduli-test/ru/favicon.ico",
         "/carduli-test/ru/index.html",
-        "/carduli-test/ru/main-Q7EQAKUU.js",
+        "/carduli-test/ru/main-624F57Z7.js",
         "/carduli-test/ru/manifest.webmanifest",
-        "/carduli-test/ru/polyfills-VDZ4RIZQ.js",
+        "/carduli-test/ru/polyfills-E7N6BYU6.js",
         "/carduli-test/ru/styles-WY76BBDI.css"
       ],
       "patterns": []
@@ -8031,10 +8031,10 @@
     "/carduli-test/ru/favicon.ico": "5e7a280376ecf91c457d4d121611126a7d15d251",
     "/carduli-test/ru/icons/icon-192x192.png": "dc56c551eab4e5a477a96eab76a481367bbb29b3",
     "/carduli-test/ru/icons/icon-512х512.png": "ba9194b165549bf549a5a7a89e68b2e75e764b2e",
-    "/carduli-test/ru/index.html": "f0093bbdccdf341a69fd50c25541c80263e74a9b",
-    "/carduli-test/ru/main-Q7EQAKUU.js": "7a744edec6873df93bc5fc4ef81a74b7b2ce34a3",
+    "/carduli-test/ru/index.html": "c2176d286dda50a7b2fe1dc1c375525a09ffb87e",
+    "/carduli-test/ru/main-624F57Z7.js": "b2af9e929a11c8503b6d997e30ab37c9664f1ae0",
     "/carduli-test/ru/manifest.webmanifest": "4e50d73afc84b35f3ea0ff84ac2b14c4ba73c150",
-    "/carduli-test/ru/polyfills-VDZ4RIZQ.js": "109df1c1342a63661511f5ed82ee2015ac1e3c3c",
+    "/carduli-test/ru/polyfills-E7N6BYU6.js": "741873d2541c7ef521dbd918a77a6eeada5e2e29",
     "/carduli-test/ru/styles-WY76BBDI.css": "e7ac6ce9946b3de49e65ab7a4e85bc06713cafd9"
   },
   "navigationUrls": [
